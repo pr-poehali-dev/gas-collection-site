@@ -8,7 +8,7 @@ const Equipment = () => {
       title: "Рукавные фильтры",
       description: "Высокоэффективные системы очистки от твердых частиц",
       image:
-        "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+        "https://cdn.poehali.dev/files/7ce4871e-d856-4f8e-9456-aab8a823adf5.jpg",
       features: [
         "Эффективность 99.9%",
         "Автоматическая регенерация",
