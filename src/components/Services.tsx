@@ -32,6 +32,8 @@ const Services = () => {
       title: "Брикетирование пыли",
       description:
         "Переработка уловленной пыли в товарные брикеты для повторного использования в производстве",
+      image:
+        "https://images.unsplash.com/photo-1586864387967-d02ef85d93e8?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
     },
     {
       icon: "BarChart3",
@@ -64,13 +66,23 @@ const Services = () => {
               className="hover:shadow-xl transition-all duration-300 transform hover:-translate-y-2 border-0 bg-white"
             >
               <CardContent className="p-8">
-                <div className="w-16 h-16 bg-blue-100 rounded-xl flex items-center justify-center mb-6">
-                  <Icon
-                    name={service.icon as any}
-                    className="text-blue-800"
-                    size={32}
-                  />
-                </div>
+                {service.image ? (
+                  <div className="mb-6">
+                    <img
+                      src={service.image}
+                      alt={service.title}
+                      className="w-full h-32 object-cover rounded-lg mb-4"
+                    />
+                  </div>
+                ) : (
+                  <div className="w-16 h-16 bg-blue-100 rounded-xl flex items-center justify-center mb-6">
+                    <Icon
+                      name={service.icon as any}
+                      className="text-blue-800"
+                      size={32}
+                    />
+                  </div>
+                )}
                 <h3 className="text-xl font-bold text-gray-900 mb-4">
                   {service.title}
                 </h3>
