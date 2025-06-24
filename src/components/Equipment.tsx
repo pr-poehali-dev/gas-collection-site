@@ -8,7 +8,7 @@ const Equipment = () => {
       title: "Рукавные фильтры",
       description: "Высокоэффективные системы очистки от твердых частиц",
       image:
-        "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+        "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
       features: [
         "Эффективность 99.9%",
         "Автоматическая регенерация",
@@ -19,7 +19,7 @@ const Equipment = () => {
       title: "Электрофильтры",
       description: "Электростатические системы газоочистки",
       image:
-        "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+        "https://images.unsplash.com/photo-1518709268805-4e9042af2176?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
       features: [
         "Низкое энергопотребление",
         "Минимальное обслуживание",
@@ -30,7 +30,7 @@ const Equipment = () => {
       title: "Скрубберы",
       description: "Мокрые системы газоочистки для химических загрязнений",
       image:
-        "https://images.unsplash.com/photo-1565688534245-05d6b5be184a?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+        "https://images.unsplash.com/photo-1562408590-e32931084e23?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
       features: [
         "Очистка от газов",
         "Охлаждение потока",
@@ -41,7 +41,7 @@ const Equipment = () => {
       title: "Брикетировочные прессы",
       description: "Переработка уловленной пыли в товарные брикеты",
       image:
-        "https://images.unsplash.com/photo-1565611055781-a82b6765b2c9?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+        "https://images.unsplash.com/photo-1587293852726-70cdb56c2866?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
       features: [
         "Высокая плотность брикетов",
         "Автоматизированный процесс",
