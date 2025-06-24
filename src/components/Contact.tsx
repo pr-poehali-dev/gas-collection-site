@@ -7,22 +7,10 @@ import Icon from "@/components/ui/icon";
 const Contact = () => {
   const contactInfo = [
     {
-      icon: "Phone",
-      title: "Телефон",
-      value: "+7 (495) 123-45-67",
-      link: "tel:+74951234567",
-    },
-    {
       icon: "Mail",
       title: "Email",
       value: "info@universystem.ru",
       link: "mailto:info@universystem.ru",
-    },
-    {
-      icon: "MapPin",
-      title: "Адрес",
-      value: "г. Москва, ул. Промышленная, д. 25",
-      link: "#",
     },
     {
       icon: "Clock",
@@ -74,8 +62,8 @@ const Contact = () => {
                 variant="secondary"
                 className="bg-white text-blue-600 hover:bg-gray-100"
               >
-                <Icon name="Phone" className="mr-2" size={16} />
-                +7 (495) 123-45-68
+                <Icon name="Mail" className="mr-2" size={16} />
+                Связаться с поддержкой
               </Button>
             </div>
           </div>

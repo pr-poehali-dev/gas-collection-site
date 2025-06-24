@@ -76,19 +76,15 @@ const Footer = () => {
           </div>
 
           <div>
-            <h4 className="font-bold mb-4">Контакты</h4>
+            <h4 className="font-bold mb-4">Информация</h4>
             <div className="space-y-3 text-sm text-gray-400">
-              <div className="flex items-center space-x-2">
-                <Icon name="Phone" size={16} />
-                <span>+7 (495) 123-45-67</span>
-              </div>
               <div className="flex items-center space-x-2">
                 <Icon name="Mail" size={16} />
                 <span>info@universystem.ru</span>
               </div>
               <div className="flex items-center space-x-2">
-                <Icon name="MapPin" size={16} />
-                <span>г. Москва, ул. Промышленная, 25</span>
+                <Icon name="Clock" size={16} />
+                <span>Пн-Пт: 9:00-18:00</span>
               </div>
             </div>
           </div>
