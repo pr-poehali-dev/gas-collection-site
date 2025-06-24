@@ -20,7 +20,7 @@ const Equipment = () => {
       description:
         "Комплексная система переработки пыли после газоочистки в брикеты",
       image:
-        "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+        "https://cdn.poehali.dev/files/153a8202-013d-425c-aa5d-21e3a4e74913.jpg",
       features: [
         "Утилизация отходов газоочистки",
         "Получение товарного продукта",
