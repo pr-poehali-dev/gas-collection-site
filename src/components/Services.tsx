@@ -33,7 +33,7 @@ const Services = () => {
       description:
         "Переработка уловленной пыли в товарные брикеты для повторного использования в производстве",
       image:
-        "https://images.unsplash.com/photo-1586864387967-d02ef85d93e8?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+        "https://cdn.poehali.dev/files/67154a0b-3217-499a-9569-a4bbb60184a2.jpg",
     },
     {
       icon: "BarChart3",
