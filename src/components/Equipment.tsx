@@ -31,7 +31,7 @@ const Equipment = () => {
       title: "Циклоны",
       description: "Механические сепараторы для грубой очистки газов",
       image:
-        "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+        "https://cdn.poehali.dev/files/794b6015-b5c1-4c95-8af6-257ba19b7671.jpg",
       features: [
         "Простота конструкции",
         "Высокая надежность",
