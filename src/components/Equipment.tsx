@@ -19,7 +19,7 @@ const Equipment = () => {
       title: "Электрофильтры",
       description: "Электростатические системы газоочистки",
       image:
-        "https://images.unsplash.com/photo-1518709268805-4e9042af2176?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+        "https://images.unsplash.com/photo-1565008447742-97f6f38c985c?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
       features: [
         "Низкое энергопотребление",
         "Минимальное обслуживание",
@@ -27,25 +27,14 @@ const Equipment = () => {
       ],
     },
     {
-      title: "Скрубберы",
-      description: "Мокрые системы газоочистки для химических загрязнений",
+      title: "Циклоны",
+      description: "Механические сепараторы для грубой очистки газов",
       image:
-        "https://images.unsplash.com/photo-1562408590-e32931084e23?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+        "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
       features: [
-        "Очистка от газов",
-        "Охлаждение потока",
-        "Коррозионная стойкость",
-      ],
-    },
-    {
-      title: "Брикетировочные прессы",
-      description: "Переработка уловленной пыли в товарные брикеты",
-      image:
-        "https://images.unsplash.com/photo-1587293852726-70cdb56c2866?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
-      features: [
-        "Высокая плотность брикетов",
-        "Автоматизированный процесс",
-        "Возврат пыли в производство",
+        "Простота конструкции",
+        "Высокая надежность",
+        "Низкие эксплуатационные расходы",
       ],
     },
   ];
